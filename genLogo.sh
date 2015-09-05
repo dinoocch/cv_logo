@@ -12,3 +12,6 @@ inkscape -z -w1729 -h1729 -e output/gravatar.png cvLogoGina.svg
 
 echo "Generating Facebook Image"
 inkscape -z -w1729 -h1729 -e output/Facebook.png cvLogoFlat.svg
+
+echo "Generating Librarika"
+inkscape -z -w200 -h200 -e output/Librarika.png cvLogoFlat.svg
